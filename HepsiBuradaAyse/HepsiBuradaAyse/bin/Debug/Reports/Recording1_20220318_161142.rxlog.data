@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="18.1s"
+		durationms="18104"
+		type="root"
+		rid="10c667cb5ff3a1d"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:11:44"
+		timestampiso="2022-03-18T13:11:44"
+		endtime="18.03.2022 16:12:02"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.896"
+			timeRelativeToTestModuleStartTime="00:10.896"
+			timeWallClock="16:11:55"
+			time="00:10.896"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.921"
+			timeRelativeToTestModuleStartTime="00:10.921"
+			timeWallClock="16:11:55"
+			time="00:10.921"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ContinueStepBtn' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="19"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.289"
+			timeRelativeToTestModuleStartTime="00:12.289"
+			timeWallClock="16:11:56"
+			time="00:12.289"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for time from variable $N3s.
+			</message>
+			<metainfo
+				itemindex="20"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.296"
+			timeRelativeToTestModuleStartTime="00:15.296"
+			timeWallClock="16:11:59"
+			time="00:15.296"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ATagDeğiştir' at 26;14.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'paymentOptions']/?/?/a[@innertext='(Değiştir)']"
+				itempath=".//div[#'paymentOptions']/?/?/a[@innertext='(Değiştir)']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ATagDeğiştir"
+				id="07e74653894b4b0995fa9062e92d2e26"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="115"
+				itemindex="21"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.921"
+			timeRelativeToTestModuleStartTime="00:15.921"
+			timeWallClock="16:12:00"
+			time="00:15.921"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.AnındaHavale' at 128;12.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				itempath=".//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.AnındaHavale"
+				id="2bbd7a59d0134a64b9d86e2dd104e02a"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="119"
+				itemindex="22"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="6.65s"
+		durationms="6654"
+		type="root"
+		rid="14c8e24e5f9a06d8"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 10:13:12"
+		timestampiso="2022-03-19T07:13:12"
+		endtime="19.03.2022 10:13:19"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.217"
+			timeRelativeToTestModuleStartTime="00:04.217"
+			timeWallClock="10:13:16"
+			time="00:04.217"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.227"
+			timeRelativeToTestModuleStartTime="00:04.227"
+			timeWallClock="10:13:16"
+			time="00:04.227"
+			level="Info"
+			category="Mouse">
+			<message>
+				Giriş yapma ekranı açma<br/>Mouse Left Click item 'ApplicationUnderTest.MyAccount' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']"
+				itempath=".//div[#'myAccount']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.MyAccount"
+				id="2407ab238e194cb9a4021b33ebe5f381"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="109"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.888"
+			timeRelativeToTestModuleStartTime="00:05.888"
+			timeWallClock="10:13:18"
+			time="00:05.888"
+			level="Info"
+			category="Mouse">
+			<message>
+				Giriş yapma ekranı açma<br/>Mouse Left Click item 'ApplicationUnderTest.SomeLiTag' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']//ul/li[1]"
+				itempath=".//div[#'myAccount']//ul/li[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SomeLiTag"
+				id="d06932a94df24b16885ed9741a8b25a7"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="114"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

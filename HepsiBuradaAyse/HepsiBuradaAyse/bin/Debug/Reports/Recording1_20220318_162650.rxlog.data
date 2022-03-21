@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="10.63s"
+		durationms="10628"
+		type="root"
+		rid="197efcf3b60f1d9a"
+		totalerrorcount="1"
+		totalwarningcount="2"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:26:51"
+		timestampiso="2022-03-18T13:26:51"
+		endtime="18.03.2022 16:27:02"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank' does not match the specified value (element is not valid).
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.352"
+			timeRelativeToTestModuleStartTime="00:04.352"
+			timeWallClock="16:26:56"
+			time="00:04.352"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.378"
+			timeRelativeToTestModuleStartTime="00:04.378"
+			timeWallClock="16:26:56"
+			time="00:04.378"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank' at 577;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]//p[@innertext='Akbank']"
+				itempath="div[1]/div[1]//p[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank"
+				id="c623cbcd99e841b9a36f0ebf020ea809"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="24"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.031"
+			timeRelativeToTestModuleStartTime="00:06.031"
+			timeWallClock="16:26:57"
+			time="00:06.031"
+			level="Warn"
+			category="Click"
+			errimg="images_Recordin_8dc12a72\Recordin_f277b57_rxlog.jpg"
+			errthumb="images_Recordin_8dc12a72\Recordin_f277b57_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="109"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.645"
+			timeRelativeToTestModuleStartTime="00:06.645"
+			timeWallClock="16:26:58"
+			time="00:06.645"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ContinueStepBtn' at 118;42.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="25"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.290"
+			timeRelativeToTestModuleStartTime="00:07.290"
+			timeWallClock="16:26:58"
+			time="00:07.290"
+			level="Info"
+			category="Validation"
+			errimg="images_Recordin_8dc12a72\Recordin_8dc12a72_83be4db5_trace.jpg"
+			errthumb="images_Recordin_8dc12a72\Recordin_8dc12a72_83be4db5_trace_thumb.jpg">
+			<message>
+				Validating AttributeEqual (Text='Akbank') on item 'Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]//p[@innertext='Akbank']"
+				itempath="div[1]/div[1]//p[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank"
+				id="c623cbcd99e841b9a36f0ebf020ea809"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="116"
+				itemindex="26"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.533"
+			timeRelativeToTestModuleStartTime="00:10.533"
+			timeWallClock="16:27:02"
+			time="00:10.533"
+			level="Failure"
+			category="Validation"
+			errimg="images_Recordin_8dc12a72\Recordin_8dc12a72_4e473373_trace.jpg"
+			errthumb="images_Recordin_8dc12a72\Recordin_8dc12a72_4e473373_trace_thumb.jpg">
+			<message>
+				Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank' does not match the specified value (element is not valid).
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]//p[@innertext='Akbank']"
+				itempath="div[1]/div[1]//p[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank"
+				id="c623cbcd99e841b9a36f0ebf020ea809"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="117"
+				loglvl="Failure"
+				itemindex="26">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.539"
+			timeRelativeToTestModuleStartTime="00:10.539"
+			timeWallClock="16:27:02"
+			time="00:10.539"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_8dc12a72\Recordin_8dc12a72_4e473373_trace.jpg"
+			errthumb="images_Recordin_8dc12a72\Recordin_8dc12a72_4e473373_trace_thumb.jpg">
+			<message>
+				Module execution was aborted because a validation step has failed. Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank' does not match the specified value (element is not valid).
+			</message>
+			<metainfo
+				stacktrace="   konum: Ranorex.Validate.Execute(AttributeValidation attributeValidation, Func`1 action, Options options, RepoItemInfo itemInfo)
+   konum: Ranorex.Validate.Execute(IElement element, IMatch match, String message, Options options, RepoItemInfo itemInfo, Func`3 comparisonFunc, String reasonPattern)
+   konum: Ranorex.Validate.AttributeEqualInternal(IElement element, String name, Object value, String message, Options options, RepoItemInfo itemInfo)
+   konum: Ranorex.Validate.AttributeEqualInternal(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   konum: Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   konum: Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value)
+   konum: HepsiBuradaAyse.Recording1.Ranorex.Core.Testing.ITestModule.Run() c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs içinde: satır 117
+   konum: Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="117"
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]//p[@innertext='Akbank']"
+				itempath="div[1]/div[1]//p[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank"
+				id="c623cbcd99e841b9a36f0ebf020ea809"
+				timeout="90000"
+				loglvl="Error"
+				itemindex="26">
+			</metainfo>
+		</item>
+	</activity>
+</report>

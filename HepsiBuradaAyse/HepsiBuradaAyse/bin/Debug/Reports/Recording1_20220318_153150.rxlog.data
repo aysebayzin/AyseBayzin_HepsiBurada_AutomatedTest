@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.93s"
+		durationms="1930"
+		type="root"
+		rid="1887c09ac5c9b3d3"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:31:51"
+		timestampiso="2022-03-18T12:31:51"
+		endtime="18.03.2022 15:31:55"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.923"
+			timeRelativeToTestModuleStartTime="00:01.923"
+			timeWallClock="15:31:53"
+			time="00:01.923"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.218"
+			timeRelativeToTestModuleStartTime="00:04.218"
+			timeWallClock="15:31:55"
+			time="00:04.218"
+			level="Failure"
+			category="Module"
+			errimg="images_Recordin_e93e9f0d\Recordin_e93e9f0d_2c14553f_trace.jpg"
+			errthumb="images_Recordin_e93e9f0d\Recordin_e93e9f0d_2c14553f_trace_thumb.jpg">
+			<message>
+				İş parçacığı durduruluyordu.
+			</message>
+			<metainfo
+				stacktrace="   konum: System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   konum: System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   konum: System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   konum: System.Windows.Forms.Application.RunDialog(Form form)
+   konum: System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   konum: Infralution.Licensing.EvaluationDialog.ShowDialog()
+   konum: Ranorex.Core.ElementEngine.CheckTrial(Boolean verbose, AuthenticatedLicense nodeLockedLicense, Boolean isLimitedTrial)
+   konum: Ranorex.Core.ElementEngine.CheckMachineLicense(Boolean verbose, AuthenticatedLicense nodeLockedLicense, NodeLockedLicenseStatus nodeLockedStatus)
+   konum: Ranorex.Core.ElementEngine.CheckLicense(Boolean verbose)
+   konum: Ranorex.Core.ElementEngine.AssertLicense()
+   konum: Ranorex.Core.ElementEngine..ctor()
+   konum: Ranorex.Core.ElementEngine.get_Instance()
+   konum: Ranorex.Core.Testing.TestModuleRunner.RunStandalone(ITestModule module, String reportFilename, Boolean generateReport, String standaloneModuleName, CaseInsensitiveString guid)"
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{9B5EC3C2-AA7F-4C29-BE58-804DCF6E8AE0}</ProjectGuid>
+    <TargetFrameworkProfile />
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>HepsiBuradaAyse</RootNamespace>
+    <AssemblyName>HepsiBuradaAyse</AssemblyName>
+    <NoWarn>1591</NoWarn>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <RANOREX_BIN_PATH Condition=" '$(RANOREX_BIN_PATH)' == '' ">$([MSBuild]::GetRegistryValueFromView('HKEY_LOCAL_MACHINE\SOFTWARE\Ranorex\Studio', 'InstallDir', null, RegistryView.Registry64, RegistryView.Registry32))\Bin</RANOREX_BIN_PATH>
+    <RanorexTargetsPath>$(RANOREX_BIN_PATH)\Ranorex.MSBuild.Targets</RanorexTargetsPath>
+    <projectdefaultrepository>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</projectdefaultrepository>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>$(OutputPath)\$(AssemblyName).xml</DocumentationFile>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>$(OutputPath)\$(AssemblyName).xml</DocumentationFile>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ranorex.Bootstrapper" />
+    <Reference Include="Ranorex.Core" />
+    <Reference Include="Ranorex.Core.Resolver">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Ranorex.Plugin.Cef" />
+    <Reference Include="Ranorex.Plugin.ChromeWeb" />
+    <Reference Include="Ranorex.Plugin.Delphi" />
+    <Reference Include="Ranorex.Plugin.FirefoxWeb" />
+    <Reference Include="Ranorex.Plugin.Flex" />
+    <Reference Include="Ranorex.Plugin.Java" />
+    <Reference Include="Ranorex.Plugin.Mobile" />
+    <Reference Include="Ranorex.Plugin.Msaa" />
+    <Reference Include="Ranorex.Plugin.Office" />
+    <Reference Include="Ranorex.Plugin.Qt" />
+    <Reference Include="Ranorex.Plugin.RawText" />
+    <Reference Include="Ranorex.Plugin.Sap" />
+    <Reference Include="Ranorex.Plugin.Uia" />
+    <Reference Include="Ranorex.Plugin.Web" />
+    <Reference Include="Ranorex.Plugin.WebDriver" />
+    <Reference Include="Ranorex.Plugin.Win32" />
+    <Reference Include="Ranorex.Plugin.WinForms" />
+    <Reference Include="Ranorex.Plugin.WinForms.Core" />
+    <Reference Include="Ranorex.Plugin.Wpf" />
+    <Reference Include="Ranorex.Plugin.Wpf.Core" />
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <id>e5285b24-d5ca-4a8c-a038-82c257e63308</id>
+    </Compile>
+    <Compile Include="CloseBrowser.cs">
+      <BoundTo>f80f9c00-9b13-4e0c-96f7-391902d94fdf</BoundTo>
+      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>08ab5196-95a9-4e46-9cec-e2c92dbe9116</id>
+    </Compile>
+    <Compile Include="CloseBrowser.UserCode.cs">
+      <BoundTo>f80f9c00-9b13-4e0c-96f7-391902d94fdf</BoundTo>
+      <DependentUpon>CloseBrowser.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>5c1b8508-58c0-4bc2-843a-0f400adfc5c7</id>
+    </Compile>
+    <Compile Include="HepsiBuradaAyseRepository.cs">
+      <BoundTo>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</BoundTo>
+      <DependentUpon>HepsiBuradaAyseRepository.rxrep</DependentUpon>
+      <RepositoryCode>true</RepositoryCode>
+      <id>67355f7f-7619-41f5-8ecd-1ebf24e0f8e8</id>
+    </Compile>
+    <Compile Include="OpenBrowser.cs">
+      <BoundTo>27c420a8-1194-4cb5-8db8-a788c6941e78</BoundTo>
+      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>5bcc1c69-3451-4602-b4ca-dc35dbc93738</id>
+    </Compile>
+    <Compile Include="OpenBrowser.UserCode.cs">
+      <BoundTo>27c420a8-1194-4cb5-8db8-a788c6941e78</BoundTo>
+      <DependentUpon>OpenBrowser.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>da908c97-3480-4010-8030-90e2d617432f</id>
+    </Compile>
+    <Compile Include="Program.cs">
+      <id>aa837344-bfdc-43f1-8c65-2a535755d9f7</id>
+    </Compile>
+    <Compile Include="Recording1.cs">
+      <BoundTo>266afc29-4f72-49ab-a183-bac3b9b324d2</BoundTo>
+      <DependentUpon>Recording1.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>5570a141-982e-4460-967e-edc2f405f9cb</id>
+    </Compile>
+    <Compile Include="Recording1.UserCode.cs">
+      <BoundTo>266afc29-4f72-49ab-a183-bac3b9b324d2</BoundTo>
+      <DependentUpon>Recording1.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>77cc79cc-dbee-48f5-9428-84104e970a86</id>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <id>8fa7c2db-5ca7-4971-a1b4-e63d9629987d</id>
+    </None>
+    <None Include="CloseBrowser.rxrec">
+      <BoundTo>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</BoundTo>
+      <id>f80f9c00-9b13-4e0c-96f7-391902d94fdf</id>
+      <recordtableid>0711cc2a-7899-4d96-80de-55f9aad77d1d</recordtableid>
+    </None>
+    <None Include="HepsiBuradaAyseRepository.rximg">
+      <BoundTo>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</BoundTo>
+      <DependentUpon>HepsiBuradaAyseRepository.rxrep</DependentUpon>
+      <imageblob>true</imageblob>
+      <id>5fe7ade6-4534-4641-acea-01e40f8fb044</id>
+    </None>
+    <None Include="HepsiBuradaAyseRepository.rxrep">
+      <id>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</id>
+      <repoid>1910cfce-955a-4b07-a366-3773088f9c85</repoid>
+      <reporootid>5b19f910-a3ba-44fd-bfe1-4b90d93cb448</reporootid>
+    </None>
+    <None Include="OpenBrowser.rxrec">
+      <BoundTo>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</BoundTo>
+      <id>27c420a8-1194-4cb5-8db8-a788c6941e78</id>
+      <recordtableid>3aacb2b3-1ff0-4c55-a1a4-0b68d6b9e556</recordtableid>
+    </None>
+    <None Include="Recording1.rxrec">
+      <BoundTo>4f63a11e-d7f7-4a9f-a704-06e89bd53a07</BoundTo>
+      <id>266afc29-4f72-49ab-a183-bac3b9b324d2</id>
+      <recordtableid>cdb4a54a-54a3-4500-aedc-929e112d0703</recordtableid>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="HepsiBuradaAyse.rxtmg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>ee9cb775-259b-4132-b6ff-b4b8e0aaf959</id>
+    </Content>
+    <Content Include="HepsiBuradaAyse.rxtst">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>d2237002-d9b8-4daa-9a74-c40624cc1773</id>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(RanorexTargetsPath)" Condition="Exists('$(RanorexTargetsPath)')" />
+</Project>

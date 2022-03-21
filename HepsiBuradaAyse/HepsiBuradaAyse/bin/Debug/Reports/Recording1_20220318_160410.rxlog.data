@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="10.45s"
+		durationms="10449"
+		type="root"
+		rid="2f193aab6cb6adfc"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:04:12"
+		timestampiso="2022-03-18T13:04:12"
+		endtime="18.03.2022 16:04:22"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.739"
+			timeRelativeToTestModuleStartTime="00:05.739"
+			timeWallClock="16:04:17"
+			time="00:05.739"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.765"
+			timeRelativeToTestModuleStartTime="00:05.765"
+			timeWallClock="16:04:17"
+			time="00:05.765"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS' at 84;259.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				itempath=".//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS"
+				id="6e98354f2ea24d21b5f6076ceede0c25"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.401"
+			timeRelativeToTestModuleStartTime="00:08.401"
+			timeWallClock="16:04:20"
+			time="00:08.401"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -360 units.
+			</message>
+			<metainfo
+				itemindex="15"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.708"
+			timeRelativeToTestModuleStartTime="00:08.708"
+			timeWallClock="16:04:20"
+			time="00:08.708"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AddToCart' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//button[#'addToCart']"
+				itempath=".//button[#'addToCart']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.AddToCart"
+				id="48267cd4506e445caa725a623298a9fc"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="116"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.465"
+			timeRelativeToTestModuleStartTime="00:09.465"
+			timeWallClock="16:04:21"
+			time="00:09.465"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.ShoppingCart' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//span[#'shoppingCart']"
+				itempath=".//span[#'shoppingCart']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.ShoppingCart"
+				id="57f7a8e96063469abec4a0d24042a26f"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="120"
+				itemindex="17"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

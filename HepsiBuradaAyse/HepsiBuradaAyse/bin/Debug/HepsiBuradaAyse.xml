@@ -1,0 +1,1574 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HepsiBuradaAyse</name>
+    </assembly>
+    <members>
+        <member name="T:HepsiBuradaAyse.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:HepsiBuradaAyse.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the HepsiBuradaAyseRepository repository.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:HepsiBuradaAyse.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:HepsiBuradaAyse.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepository">
+            <summary>
+            The class representing the HepsiBuradaAyseRepository element repository.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the HepsiBuradaAyseRepository element repository.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.TuerkiyeninEnBueyuekOnlineAlışveriş">
+            <summary>
+            The TuerkiyeninEnBueyuekOnlineAlışveriş folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad">
+            <summary>
+            The UEyeGirişSayfasıUEyeOlHepsiburad folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.Explorer">
+            <summary>
+            The Explorer folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.KontrolMerkezi">
+            <summary>
+            The KontrolMerkezi folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.Sepetim">
+            <summary>
+            The Sepetim folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.ValidateWithRanorexRecorderYouTube">
+            <summary>
+            The ValidateWithRanorexRecorderYouTube folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore">
+            <summary>
+            The AdvancedImageBasedAutomationRanore folder.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYap">
+            <summary>
+            The GirişYap item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfo">
+            <summary>
+            The GirişYap item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SomeLiTag">
+            <summary>
+            The SomeLiTag item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SomeLiTagInfo">
+            <summary>
+            The SomeLiTag item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.MyAccount">
+            <summary>
+            The MyAccount item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.MyAccountInfo">
+            <summary>
+            The MyAccount item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.Login">
+            <summary>
+            The Login item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.LoginInfo">
+            <summary>
+            The Login item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SfOldHeaderVf8w1">
+            <summary>
+            The SfOldHeaderVf8w1 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SfOldHeaderVf8w1Info">
+            <summary>
+            The SfOldHeaderVf8w1 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ProductListContentGrid0ProductListCon">
+            <summary>
+            The ProductListContentGrid0ProductListCon item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ProductListContentGrid0ProductListConInfo">
+            <summary>
+            The ProductListContentGrid0ProductListCon item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.JJXLSlMoriaProductCardIZomLiSn6gvmw0">
+            <summary>
+            The JJXLSlMoriaProductCardIZomLiSn6gvmw0 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.JJXLSlMoriaProductCardIZomLiSn6gvmw0Info">
+            <summary>
+            The JJXLSlMoriaProductCardIZomLiSn6gvmw0 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ContainerSelectorFocus">
+            <summary>
+            The ContainerSelectorFocus item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ContainerSelectorFocusInfo">
+            <summary>
+            The ContainerSelectorFocus item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.CGAFkXMoriaProductCardIymOAaS2jsyyoo">
+            <summary>
+            The CGAFkXMoriaProductCardIymOAaS2jsyyoo item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.CGAFkXMoriaProductCardIymOAaS2jsyyooInfo">
+            <summary>
+            The CGAFkXMoriaProductCardIymOAaS2jsyyoo item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.CKJzHKGdXpycIQuLDyMoriaProductCardI">
+            <summary>
+            The CKJzHKGdXpycIQuLDyMoriaProductCardI item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.CKJzHKGdXpycIQuLDyMoriaProductCardIInfo">
+            <summary>
+            The CKJzHKGdXpycIQuLDyMoriaProductCardI item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.BCJFyCMoriaProductCardFWMEMTSm31u40v">
+            <summary>
+            The BCJFyCMoriaProductCardFWMEMTSm31u40v item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.BCJFyCMoriaProductCardFWMEMTSm31u40vInfo">
+            <summary>
+            The BCJFyCMoriaProductCardFWMEMTSm31u40v item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SepeteEkle">
+            <summary>
+            The SepeteEkle item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SepeteEkleInfo">
+            <summary>
+            The SepeteEkle item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ShoppingCart">
+            <summary>
+            The ShoppingCart item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ShoppingCartInfo">
+            <summary>
+            The ShoppingCart item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.Wrapper">
+            <summary>
+            The Wrapper item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.WrapperInfo">
+            <summary>
+            The Wrapper item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.AddToCart">
+            <summary>
+            The AddToCart item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.AddToCartInfo">
+            <summary>
+            The AddToCart item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.HttpsProductimagesHepsiburadaNetS">
+            <summary>
+            The HttpsProductimagesHepsiburadaNetS item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.HttpsProductimagesHepsiburadaNetSInfo">
+            <summary>
+            The HttpsProductimagesHepsiburadaNetS item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ColGridDemoFluidLg2Md2ProductDet">
+            <summary>
+            The ColGridDemoFluidLg2Md2ProductDet item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.ColGridDemoFluidLg2Md2ProductDetInfo">
+            <summary>
+            The ColGridDemoFluidLg2Md2ProductDet item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SfOldMyAccount1RVaW">
+            <summary>
+            The SfOldMyAccount1RVaW item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SfOldMyAccount1RVaWInfo">
+            <summary>
+            The SfOldMyAccount1RVaW item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.SearchBoxOld">
+            <summary>
+            The SearchBoxOld folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.Main">
+            <summary>
+            The Main folder.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfoClass">
+            <summary>
+            The GirişYapInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            GirişYapInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfoClass.Getgiriş11">
+            <summary>
+            Gets the giriş11 item image.
+            </summary>
+            <returns>The giriş11 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ApplicationUnderTestAppFolder.GirişYapInfoClass.Getgiriş11(System.Drawing.Rectangle)">
+            <summary>
+            Gets the giriş11 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder">
+            <summary>
+            The SearchBoxOldFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SearchBoxOld  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.DivTagARA">
+            <summary>
+            The DivTagARA item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.DivTagARAInfo">
+            <summary>
+            The DivTagARA item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.SearchBoxOldHasNoBorderBottomSearchBox">
+            <summary>
+            The SearchBoxOldHasNoBorderBottomSearchBox item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.SearchBoxOldHasNoBorderBottomSearchBoxInfo">
+            <summary>
+            The SearchBoxOldHasNoBorderBottomSearchBox item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.Text">
+            <summary>
+            The Text item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.TextInfo">
+            <summary>
+            The Text item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.DesktopOldAutosuggestThemeSuggestionsLi">
+            <summary>
+            The DesktopOldAutosuggestThemeSuggestionsLi item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.DesktopOldAutosuggestThemeSuggestionsLiInfo">
+            <summary>
+            The DesktopOldAutosuggestThemeSuggestionsLi item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.SuggestionTextWrapper">
+            <summary>
+            The SuggestionTextWrapper item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.SuggestionTextWrapperInfo">
+            <summary>
+            The SuggestionTextWrapper item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder">
+            <summary>
+            The MainFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Main  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.CheckoutuiModal2iZXl">
+            <summary>
+            The CheckoutuiModal2iZXl item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.CheckoutuiModal2iZXlInfo">
+            <summary>
+            The CheckoutuiModal2iZXl item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.SomePathTag">
+            <summary>
+            The SomePathTag item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.SomePathTagInfo">
+            <summary>
+            The SomePathTag item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.SomeSvgTag">
+            <summary>
+            The SomeSvgTag item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.SomeSvgTagInfo">
+            <summary>
+            The SomeSvgTag item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.CheckoutuiModal1Myi1CheckoutuiModal">
+            <summary>
+            The CheckoutuiModal1Myi1CheckoutuiModal item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.MainFolder.CheckoutuiModal1Myi1CheckoutuiModalInfo">
+            <summary>
+            The CheckoutuiModal1Myi1CheckoutuiModal item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder">
+            <summary>
+            The TuerkiyeninEnBueyuekOnlineAlışverişAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new TuerkiyeninEnBueyuekOnlineAlışveriş  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.Element76369952">
+            <summary>
+            The Element76369952 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.Element76369952Info">
+            <summary>
+            The Element76369952 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.Geri">
+            <summary>
+            The Geri item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.GeriInfo">
+            <summary>
+            The Geri item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.GirişYap">
+            <summary>
+            The GirişYap item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.TuerkiyeninEnBueyuekOnlineAlışverişAppFolder.GirişYapInfo">
+            <summary>
+            The GirişYap item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder">
+            <summary>
+            The UEyeGirişSayfasıUEyeOlHepsiburadAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new UEyeGirişSayfasıUEyeOlHepsiburad  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.FalseFalseMMIbirtW8HZVTf4bniCY5">
+            <summary>
+            The FalseFalseMMIbirtW8HZVTf4bniCY5 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.FalseFalseMMIbirtW8HZVTf4bniCY5Info">
+            <summary>
+            The FalseFalseMMIbirtW8HZVTf4bniCY5 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.BtnLogin">
+            <summary>
+            The BtnLogin item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.BtnLoginInfo">
+            <summary>
+            The BtnLogin item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.SomeFormTag">
+            <summary>
+            The SomeFormTag item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.SomeFormTagInfo">
+            <summary>
+            The SomeFormTag item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.BtnEmailSelect">
+            <summary>
+            The BtnEmailSelect item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.BtnEmailSelectInfo">
+            <summary>
+            The BtnEmailSelect item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtUserName">
+            <summary>
+            The TxtUserName item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtUserNameInfo">
+            <summary>
+            The TxtUserName item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtPassword">
+            <summary>
+            The TxtPassword item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtPasswordInfo">
+            <summary>
+            The TxtPassword item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtUserName1">
+            <summary>
+            The TxtUserName1 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.TxtUserName1Info">
+            <summary>
+            The TxtUserName1 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.HbAxirPSvim3msdmdWqt">
+            <summary>
+            The HbAxirPSvim3msdmdWqt item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.HbAxirPSvim3msdmdWqtInfo">
+            <summary>
+            The HbAxirPSvim3msdmdWqt item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.UEyeGirişSayfasıUEyeOlHepsiburadAppFolder.DivTag2zMNDEK0DU0JIXaIzA2Jl1">
+            <summary>
+            The DivTag2zMNDEK0DU0JIXaIzA2Jl1 folder.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder">
+            <summary>
+            The DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new DivTag2zMNDEK0DU0JIXaIzA2Jl1  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag2zMNDEK0DU0JIXaIzA2Jl">
+            <summary>
+            The DivTag2zMNDEK0DU0JIXaIzA2Jl item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag2zMNDEK0DU0JIXaIzA2JlInfo">
+            <summary>
+            The DivTag2zMNDEK0DU0JIXaIzA2Jl item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1ntKM70v9t1WleQh1WQmhFalse">
+            <summary>
+            The DivTag1ntKM70v9t1WleQh1WQmhFalse item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1ntKM70v9t1WleQh1WQmhFalseInfo">
+            <summary>
+            The DivTag1ntKM70v9t1WleQh1WQmhFalse item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag3GsvdTmLmWtmWX3ZOLPHU6FalseFals">
+            <summary>
+            The DivTag3GsvdTmLmWtmWX3ZOLPHU6FalseFals item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag3GsvdTmLmWtmWX3ZOLPHU6FalseFalsInfo">
+            <summary>
+            The DivTag3GsvdTmLmWtmWX3ZOLPHU6FalseFals item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3">
+            <summary>
+            The DivTag1qzyrDtuo5Y1fZvzzhrn3 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3Info">
+            <summary>
+            The DivTag1qzyrDtuo5Y1fZvzzhrn3 item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass">
+            <summary>
+            The DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass.GetScreenshot2">
+            <summary>
+            Gets the Screenshot2 item image.
+            </summary>
+            <returns>The Screenshot2 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.DivTag2zMNDEK0DU0JIXaIzA2Jl1Folder.DivTag1qzyrDtuo5Y1fZvzzhrn3InfoClass.GetScreenshot2(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot2 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder">
+            <summary>
+            The ExplorerAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Explorer  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.CalışanUygulamalar">
+            <summary>
+            The CalışanUygulamalar item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.CalışanUygulamalarInfo">
+            <summary>
+            The CalışanUygulamalar item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.GoogleChrome2RunningWindows">
+            <summary>
+            The GoogleChrome2RunningWindows item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.GoogleChrome2RunningWindowsInfo">
+            <summary>
+            The GoogleChrome2RunningWindows item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindow">
+            <summary>
+            The RanorexStudio1RunningWindow item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindowInfo">
+            <summary>
+            The RanorexStudio1RunningWindow item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindowInfoClass">
+            <summary>
+            The RanorexStudio1RunningWindowInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindowInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            RanorexStudio1RunningWindowInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindowInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ExplorerAppFolder.RanorexStudio1RunningWindowInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.KontrolMerkeziAppFolder">
+            <summary>
+            The KontrolMerkeziAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.KontrolMerkeziAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new KontrolMerkezi  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.KontrolMerkeziAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.KontrolMerkeziAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder">
+            <summary>
+            The SepetimAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Sepetim  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ContinueStepBtn">
+            <summary>
+            The ContinueStepBtn item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ContinueStepBtnInfo">
+            <summary>
+            The ContinueStepBtn item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ATagDeğiştir">
+            <summary>
+            The ATagDeğiştir item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ATagDeğiştirInfo">
+            <summary>
+            The ATagDeğiştir item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.AnındaHavale">
+            <summary>
+            The AnındaHavale item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.AnındaHavaleInfo">
+            <summary>
+            The AnındaHavale item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageIndexPaymentContaine">
+            <summary>
+            The SardesPaymentPageIndexPaymentContaine item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageIndexPaymentContaineInfo">
+            <summary>
+            The SardesPaymentPageIndexPaymentContaine item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageAccordionAccordionBo">
+            <summary>
+            The SardesPaymentPageAccordionAccordionBo item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageAccordionAccordionBoInfo">
+            <summary>
+            The SardesPaymentPageAccordionAccordionBo item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SomeDivTag">
+            <summary>
+            The SomeDivTag item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SomeDivTagInfo">
+            <summary>
+            The SomeDivTag item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageMoneyTransferMoneyTr">
+            <summary>
+            The SardesPaymentPageMoneyTransferMoneyTr item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageMoneyTransferMoneyTrInfo">
+            <summary>
+            The SardesPaymentPageMoneyTransferMoneyTr item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageCombineHeaderCombine">
+            <summary>
+            The SardesPaymentPageCombineHeaderCombine item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageCombineHeaderCombineInfo">
+            <summary>
+            The SardesPaymentPageCombineHeaderCombine item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.HideTabbar3SG15MainLayout1yjd1">
+            <summary>
+            The HideTabbar3SG15MainLayout1yjd1 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.HideTabbar3SG15MainLayout1yjd1Info">
+            <summary>
+            The HideTabbar3SG15MainLayout1yjd1 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ATagDuezenle">
+            <summary>
+            The ATagDuezenle item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.ATagDuezenleInfo">
+            <summary>
+            The ATagDuezenle item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.SardesPaymentPageAccordionNonGroupSa">
+            <summary>
+            The SardesPaymentPageAccordionNonGroupSa folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SepetimAppFolder.PaymentDetails1v4iX1">
+            <summary>
+            The PaymentDetails1v4iX1 folder.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder">
+            <summary>
+            The SardesPaymentPageAccordionNonGroupSaFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SardesPaymentPageAccordionNonGroupSa  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHeInfo">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.HttpsImagesHepsiburadaNetAssetsSa">
+            <summary>
+            The HttpsImagesHepsiburadaNetAssetsSa item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.HttpsImagesHepsiburadaNetAssetsSaInfo">
+            <summary>
+            The HttpsImagesHepsiburadaNetAssetsSa item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe1">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe1 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe1Info">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe1 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe2">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe2 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe2Info">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe2 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe3">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe3 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe3Info">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe3 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe4">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe4 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe4Info">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe4 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe5">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe5 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionAccordionHe5Info">
+            <summary>
+            The SardesPaymentPageAccordionAccordionHe5 item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.Akbank">
+            <summary>
+            The Akbank item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.AkbankInfo">
+            <summary>
+            The Akbank item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.İşBankası">
+            <summary>
+            The İşBankası item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.İşBankasıInfo">
+            <summary>
+            The İşBankası item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.KuveytTuerk">
+            <summary>
+            The KuveytTuerk item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.KuveytTuerkInfo">
+            <summary>
+            The KuveytTuerk item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.Fibabanka">
+            <summary>
+            The Fibabanka item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.FibabankaInfo">
+            <summary>
+            The Fibabanka item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.Vakıfbank">
+            <summary>
+            The Vakıfbank item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.VakıfbankInfo">
+            <summary>
+            The Vakıfbank item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.AlBarakaTuerk">
+            <summary>
+            The AlBarakaTuerk item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.AlBarakaTuerkInfo">
+            <summary>
+            The AlBarakaTuerk item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionHeaderConte">
+            <summary>
+            The SardesPaymentPageAccordionHeaderConte item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageAccordionHeaderConteInfo">
+            <summary>
+            The SardesPaymentPageAccordionHeaderConte item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageMoneyTransferMoneyTr">
+            <summary>
+            The SardesPaymentPageMoneyTransferMoneyTr item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SardesPaymentPageAccordionNonGroupSaFolder.SardesPaymentPageMoneyTransferMoneyTrInfo">
+            <summary>
+            The SardesPaymentPageMoneyTransferMoneyTr item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder">
+            <summary>
+            The PaymentDetails1v4iX1Folder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new PaymentDetails1v4iX1  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.PaymentDetails1v4iX">
+            <summary>
+            The PaymentDetails1v4iX item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.PaymentDetails1v4iXInfo">
+            <summary>
+            The PaymentDetails1v4iX item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.HttpsImagesHepsiburadaNetAssetsSa">
+            <summary>
+            The HttpsImagesHepsiburadaNetAssetsSa item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.HttpsImagesHepsiburadaNetAssetsSaInfo">
+            <summary>
+            The HttpsImagesHepsiburadaNetAssetsSa item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.ModalBankLogo3zfll">
+            <summary>
+            The ModalBankLogo3zfll item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.ModalBankLogo3zfllInfo">
+            <summary>
+            The ModalBankLogo3zfll item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Akbank">
+            <summary>
+            The Akbank item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.AkbankInfo">
+            <summary>
+            The Akbank item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Detail20j8y">
+            <summary>
+            The Detail20j8y item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Detail20j8yInfo">
+            <summary>
+            The Detail20j8y item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.İşBankası">
+            <summary>
+            The İşBankası item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.İşBankasıInfo">
+            <summary>
+            The İşBankası item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.KuveytTuerk">
+            <summary>
+            The KuveytTuerk item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.KuveytTuerkInfo">
+            <summary>
+            The KuveytTuerk item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Fibabanka">
+            <summary>
+            The Fibabanka item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.FibabankaInfo">
+            <summary>
+            The Fibabanka item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.Vakıfbank">
+            <summary>
+            The Vakıfbank item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.VakıfbankInfo">
+            <summary>
+            The Vakıfbank item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.AlBarakaTuerk">
+            <summary>
+            The AlBarakaTuerk item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.PaymentDetails1v4iX1Folder.AlBarakaTuerkInfo">
+            <summary>
+            The AlBarakaTuerk item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder">
+            <summary>
+            The ValidateWithRanorexRecorderYouTubeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ValidateWithRanorexRecorderYouTube  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.SiparişOEzeti">
+            <summary>
+            The SiparişOEzeti item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.SiparişOEzetiInfo">
+            <summary>
+            The SiparişOEzeti item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.Back">
+            <summary>
+            The Back item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.BackInfo">
+            <summary>
+            The Back item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBar">
+            <summary>
+            The ToolBar item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBarInfo">
+            <summary>
+            The ToolBar item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.Back1">
+            <summary>
+            The Back1 item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.Back1Info">
+            <summary>
+            The Back1 item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.BackInfoClass">
+            <summary>
+            The BackInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.BackInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            BackInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.BackInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.BackInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBarInfoClass">
+            <summary>
+            The ToolBarInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBarInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            ToolBarInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBarInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.ValidateWithRanorexRecorderYouTubeAppFolder.ToolBarInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder">
+            <summary>
+            The AdvancedImageBasedAutomationRanoreAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AdvancedImageBasedAutomationRanore  folder.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburad">
+            <summary>
+            The UEyeGirişSayfasıUEyeOlHepsiburad item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburadInfo">
+            <summary>
+            The UEyeGirişSayfasıUEyeOlHepsiburad item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBar">
+            <summary>
+            The AddressAndSearchBar item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBarInfo">
+            <summary>
+            The AddressAndSearchBar item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.Grouping">
+            <summary>
+            The Grouping item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.GroupingInfo">
+            <summary>
+            The Grouping item info.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.ToolBar">
+            <summary>
+            The ToolBar item.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.ToolBarInfo">
+            <summary>
+            The ToolBar item info.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburadInfoClass">
+            <summary>
+            The UEyeGirişSayfasıUEyeOlHepsiburadInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburadInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            UEyeGirişSayfasıUEyeOlHepsiburadInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburadInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.UEyeGirişSayfasıUEyeOlHepsiburadInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBarInfoClass">
+            <summary>
+            The AddressAndSearchBarInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBarInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            AddressAndSearchBarInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBarInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.AdvancedImageBasedAutomationRanoreAppFolder.AddressAndSearchBarInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:HepsiBuradaAyse.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:HepsiBuradaAyse.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the HepsiBuradaAyseRepository repository.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:HepsiBuradaAyse.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:HepsiBuradaAyse.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:HepsiBuradaAyse.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:HepsiBuradaAyse.Recording1.repo">
+            <summary>
+            Holds an instance of the HepsiBuradaAyseRepository repository.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:HepsiBuradaAyse.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:HepsiBuradaAyse.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.N5s">
+            <summary>
+            Gets or sets the value of variable N5s.
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.DivTag1qzyrDtuo5Y1fZvzzhrn3_Screenshot1">
+            <summary>
+            DO NOT REFERENCE THIS CODE  - auto generated
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.DivTag1qzyrDtuo5Y1fZvzzhrn3_Screenshot1_Options">
+            <summary>
+            DO NOT REFERENCE THIS CODE  - auto generated
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.DivTag1qzyrDtuo5Y1fZvzzhrn3_Screenshot2">
+            <summary>
+            DO NOT REFERENCE THIS CODE  - auto generated
+            </summary>
+        </member>
+        <member name="P:HepsiBuradaAyse.Recording1.DivTag1qzyrDtuo5Y1fZvzzhrn3_Screenshot2_Options">
+            <summary>
+            DO NOT REFERENCE THIS CODE  - auto generated
+            </summary>
+        </member>
+        <member name="M:HepsiBuradaAyse.HepsiBurada.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="15.77s"
+		durationms="15769"
+		type="root"
+		rid="30aedef814bb7c06"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:02:54"
+		timestampiso="2022-03-18T13:02:54"
+		endtime="18.03.2022 16:03:10"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.252"
+			timeRelativeToTestModuleStartTime="00:04.252"
+			timeWallClock="16:02:59"
+			time="00:04.252"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.278"
+			timeRelativeToTestModuleStartTime="00:04.278"
+			timeWallClock="16:02:59"
+			time="00:04.278"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SearchBoxOld.Text' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.387"
+			timeRelativeToTestModuleStartTime="00:06.387"
+			timeWallClock="16:03:01"
+			time="00:06.387"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Doğan Cüceloğlu' with focus on 'ApplicationUnderTest.SearchBoxOld.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.256"
+			timeRelativeToTestModuleStartTime="00:07.256"
+			timeWallClock="16:03:02"
+			time="00:07.256"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Return}' with focus on 'ApplicationUnderTest'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']"
+				itempath="/dom[@domain='www.hepsiburada.com']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.Self"
+				id="e02ff13269eb4e9f81212bfe736e6a25"
+				timeout="30000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="117"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.560"
+			timeRelativeToTestModuleStartTime="00:07.560"
+			timeWallClock="16:03:02"
+			time="00:07.560"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 300ms.
+			</message>
+			<metainfo
+				itemindex="13"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="122"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.861"
+			timeRelativeToTestModuleStartTime="00:07.861"
+			timeWallClock="16:03:02"
+			time="00:07.861"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS' at 84;259.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				itempath=".//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS"
+				id="6e98354f2ea24d21b5f6076ceede0c25"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				itemindex="14"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.601"
+			timeRelativeToTestModuleStartTime="00:11.601"
+			timeWallClock="16:03:06"
+			time="00:11.601"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -360 units.
+			</message>
+			<metainfo
+				itemindex="15"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="129"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.903"
+			timeRelativeToTestModuleStartTime="00:11.903"
+			timeWallClock="16:03:06"
+			time="00:11.903"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AddToCart' at 125;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//button[#'addToCart']"
+				itempath=".//button[#'addToCart']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.AddToCart"
+				id="48267cd4506e445caa725a623298a9fc"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="133"
+				itemindex="16"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

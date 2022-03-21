@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="HepsiBuradaAyse"
+      id="9986115d-35d5-438e-bd86-43bd3a9166f6"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="HepsiBuradaAyse"
+      id="9986115d-35d5-438e-bd86-43bd3a9166f6"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

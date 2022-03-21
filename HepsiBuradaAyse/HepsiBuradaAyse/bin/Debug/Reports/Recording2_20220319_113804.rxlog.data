@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="11.81s"
+		durationms="11805"
+		type="root"
+		rid="29d357bf4f9ea9c0"
+		totalerrorcount="1"
+		totalwarningcount="2"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 11:38:06"
+		timestampiso="2022-03-19T08:38:06"
+		endtime="19.03.2022 11:38:18"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording2">
+		<detail>
+			Recording2
+		</detail>
+		<errormessage>
+			Failed to move to location '618;905' within element '{DivTag:detail_20j8y}'.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.394"
+			timeRelativeToTestModuleStartTime="00:09.394"
+			timeWallClock="11:38:15"
+			time="00:09.394"
+			level="Warn"
+			category="Data"
+			errimg="images_Recordin_4488e4bb\Recordin_4488e4bb_5821d7ba_trace.jpg"
+			errthumb="images_Recordin_4488e4bb\Recordin_4488e4bb_5821d7ba_trace_thumb.jpg">
+			<message>
+				The following module variables are not bound to a data column:<br/>N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.400"
+			timeRelativeToTestModuleStartTime="00:09.400"
+			timeWallClock="11:38:15"
+			time="00:09.400"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_4488e4bb\Recordin_4488e4bb_5821d7ba_trace.jpg"
+			errthumb="images_Recordin_4488e4bb\Recordin_4488e4bb_5821d7ba_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'Sepetim.PaymentDetails1v4iX1.Detail20j8y' at 618;905.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div//ul/li/div[1]"
+				itempath=".//ul/li/div[1]"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Detail20j8y"
+				id="ef19ce43e1c04675ad1f76b70f954978"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="95"
+				itemindex="67"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.542"
+			timeRelativeToTestModuleStartTime="00:11.542"
+			timeWallClock="11:38:17"
+			time="00:11.542"
+			level="Warn"
+			category="Click"
+			errimg="images_Recordin_4488e4bb\Recordin_726c2c20_rxlog.jpg"
+			errthumb="images_Recordin_4488e4bb\Recordin_726c2c20_rxlog_thumb.jpg">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>
+			</message>
+			<metainfo
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="96"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.661"
+			timeRelativeToTestModuleStartTime="00:11.661"
+			timeWallClock="11:38:18"
+			time="00:11.661"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_4488e4bb\Recordin_4488e4bb_0eaa76e1_trace.jpg"
+			errthumb="images_Recordin_4488e4bb\Recordin_4488e4bb_0eaa76e1_trace_thumb.jpg">
+			<message>
+				Failed to move to location '618;905' within element '{DivTag:detail_20j8y}'.<br/>The pointer cannot be moved to point '{X=1149,Y=1836}' since it is outside of the visible desktop.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Mouse.MoveTo(Element element, Location location, Duration moveTime)
+   at Ranorex.Mouse.Click(Element element, MouseButtons buttons, Location location, Int32 times, Duration moveTime)
+   at Ranorex.Adapter.Click(MouseButtons buttons, Location location, Int32 times, Duration moveTime, Boolean showOutOfBoundsWarning)
+   at Ranorex.Adapter.Click(Location location)
+   at HepsiBuradaAyse.Recording2.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs:line 96
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="96"
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div//ul/li/div[1]"
+				itempath=".//ul/li/div[1]"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Detail20j8y"
+				id="ef19ce43e1c04675ad1f76b70f954978"
+				timeout="90000"
+				loglvl="Error"
+				itemindex="67">
+			</metainfo>
+		</item>
+	</activity>
+</report>

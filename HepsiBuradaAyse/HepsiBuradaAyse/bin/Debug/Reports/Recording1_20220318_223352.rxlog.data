@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="12.39s"
+		durationms="12393"
+		type="root"
+		rid="2623b1e3136931fa"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 22:33:53"
+		timestampiso="2022-03-18T19:33:53"
+		endtime="18.03.2022 22:34:06"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Screenshot of item 'HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3' does not match the specified image.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.027"
+			timeRelativeToTestModuleStartTime="00:04.027"
+			timeWallClock="22:33:57"
+			time="00:04.027"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.034"
+			timeRelativeToTestModuleStartTime="00:04.034"
+			timeWallClock="22:33:57"
+			time="00:04.034"
+			level="Info"
+			category="Website">
+			<message>
+				Chrome açma<br/>Opening web site 'https://www.hepsiburada.com/' with browser 'Chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="109"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.111"
+			timeRelativeToTestModuleStartTime="00:04.111"
+			timeWallClock="22:33:57"
+			time="00:04.111"
+			level="Info"
+			category="Mouse">
+			<message>
+				Giriş yapma ekranı açma<br/>Mouse Left Click item 'ApplicationUnderTest.GirişYap' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				itempath=".//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.GirişYap"
+				id="831b296265a245e7966162134fb0721a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="114"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.258"
+			timeRelativeToTestModuleStartTime="00:06.258"
+			timeWallClock="22:34:00"
+			time="00:06.258"
+			level="Info"
+			category="Mouse">
+			<message>
+				Giriş yapma ekranı açma<br/>Mouse Left Click item 'ApplicationUnderTest.SomeLiTag' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']//ul/li[1]"
+				itempath=".//div[#'myAccount']//ul/li[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SomeLiTag"
+				id="d06932a94df24b16885ed9741a8b25a7"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="119"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.931"
+			timeRelativeToTestModuleStartTime="00:07.931"
+			timeWallClock="22:34:01"
+			time="00:07.931"
+			level="Info"
+			category="Validation"
+			errimg="images_Recordin_d31d9f2e\Recordin_d31d9f2e_972624a9_trace.jpg"
+			errthumb="images_Recordin_d31d9f2e\Recordin_d31d9f2e_972624a9_trace_thumb.jpg">
+			<message>
+				e posta girilen sayfa doğrulaması<br/>Validating CompareImage (Screenshot: 'email_giris1' with region {X=42,Y=34,Width=1791,Height=451}) on item 'UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//div[#'root']/div/div/div[1]/div[2]"
+				itempath="div[1]/div[2]"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3"
+				id="9cce2b8a2b2844a5a202806f5f8eb94f"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="124"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.219"
+			timeRelativeToTestModuleStartTime="00:12.219"
+			timeWallClock="22:34:05"
+			time="00:12.219"
+			level="Failure"
+			category="Validation"
+			errimg="images_Recordin_d31d9f2e\Recordin_d31d9f2e_50810939_trace.jpg"
+			errthumb="images_Recordin_d31d9f2e\Recordin_d31d9f2e_50810939_trace_thumb.jpg">
+			<message>
+				Screenshot of item 'HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3' does not match the specified image.
+			</message>
+			<metainfo
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Failure"
+				id="9cce2b8a2b2844a5a202806f5f8eb94f"
+				path="/dom[@domain='giris.hepsiburada.com']//div[#'root']/div/div/div[1]/div[2]"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3"
+				itemindex="3">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.240"
+			timeRelativeToTestModuleStartTime="00:12.240"
+			timeWallClock="22:34:06"
+			time="00:12.240"
+			level="Failure"
+			category="Expected image"
+			errimg="images_Recordin_d31d9f2e\Recordin_83439a3d_rxlog.png"
+			errthumb="images_Recordin_d31d9f2e\Recordin_83439a3d_rxlog_thumb.jpg">
+			<message>
+				
+			</message>
+			<metainfo
+				fullSizeImage="true"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Failure"
+				itemindex="3">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.264"
+			timeRelativeToTestModuleStartTime="00:12.264"
+			timeWallClock="22:34:06"
+			time="00:12.264"
+			level="Failure"
+			category="Actual image"
+			errimg="images_Recordin_d31d9f2e\Recordin_ea89a3d_rxlog.png"
+			errthumb="images_Recordin_d31d9f2e\Recordin_ea89a3d_rxlog_thumb.jpg">
+			<message>
+				
+			</message>
+			<metainfo
+				fullSizeImage="true"
+				replaceImage="true"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Failure"
+				itemindex="3">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.270"
+			timeRelativeToTestModuleStartTime="00:12.270"
+			timeWallClock="22:34:06"
+			time="00:12.270"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_d31d9f2e\Recordin_d31d9f2e_ec0d45bf_trace.jpg"
+			errthumb="images_Recordin_d31d9f2e\Recordin_d31d9f2e_ec0d45bf_trace_thumb.jpg">
+			<message>
+				Module execution was aborted because a validation step has failed. Screenshot of item 'HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3' does not match the specified image.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Validate.ThrowValidationException(RepoItemInfo itemInfo, ValidationException ex)
+   at Ranorex.Validate.ValidateImage(ValidateImageMethod validationMethod, Element element, Bitmap image, FindOptions findOptions, String message, Options options, RepoItemInfo itemInfo)
+   at Ranorex.Validate.CompareImage(Element element, Bitmap image, FindOptions findOptions, String message, Options options)
+   at Ranorex.Validate.CompareImage(RepoItemInfo itemInfo, Bitmap image, FindOptions findOptions, String message, Options options)
+   at Ranorex.Validate.CompareImage(RepoItemInfo itemInfo, Bitmap image, FindOptions findOptions)
+   at HepsiBuradaAyse.Recording1.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs:line 125
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Error"
+				id="9cce2b8a2b2844a5a202806f5f8eb94f"
+				path="/dom[@domain='giris.hepsiburada.com']//div[#'root']/div/div/div[1]/div[2]"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3"
+				itemindex="3">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="11.3s"
+		durationms="11298"
+		type="root"
+		rid="34f447e941a5a78"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:57:43"
+		timestampiso="2022-03-18T12:57:43"
+		endtime="18.03.2022 15:57:54"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording2">
+		<detail>
+			Recording2
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.966"
+			timeRelativeToTestModuleStartTime="00:04.966"
+			timeWallClock="15:57:48"
+			time="00:04.966"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS' at 84;259.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				itempath=".//div[#'ProductList']//ul/li[1]/?/?/a[@title>'Var Mısın? Güçlü Bir Yaşam']/div[2]/div[1]//img[@src='https://productimages.hepsiburada.net/s/54/222-222/11171970023474.jpg']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.HttpsProductimagesHepsiburadaNetS"
+				id="6e98354f2ea24d21b5f6076ceede0c25"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="82"
+				itemindex="48"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.319"
+			timeRelativeToTestModuleStartTime="00:07.319"
+			timeWallClock="15:57:50"
+			time="00:07.319"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -360 units.
+			</message>
+			<metainfo
+				itemindex="49"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="86"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.627"
+			timeRelativeToTestModuleStartTime="00:07.627"
+			timeWallClock="15:57:51"
+			time="00:07.627"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'KontrolMerkezi' at 32;722.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/winapp[@packagename='Microsoft.Windows.ShellExperienceHost']"
+				itempath="/winapp[@packagename='Microsoft.Windows.ShellExperienceHost']"
+				fullname="HepsiBuradaAyseRepository.KontrolMerkezi.Self"
+				id="b9cfab7f3ace4b588e16db3671696030"
+				timeout="30000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="90"
+				itemindex="50"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.779"
+			timeRelativeToTestModuleStartTime="00:07.779"
+			timeWallClock="15:57:51"
+			time="00:07.779"
+			level="Warn"
+			category="Click">
+			<message>
+				The mouse action was performed outside the boundaries of the assigned UI element.<br/>(null)
+			</message>
+			<metainfo
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="91"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.165"
+			timeRelativeToTestModuleStartTime="00:08.165"
+			timeWallClock="15:57:51"
+			time="00:08.165"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AddToCart' at 125;34.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//button[#'addToCart']"
+				itempath=".//button[#'addToCart']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.AddToCart"
+				id="48267cd4506e445caa725a623298a9fc"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording2.cs"
+				codeline="94"
+				itemindex="51"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

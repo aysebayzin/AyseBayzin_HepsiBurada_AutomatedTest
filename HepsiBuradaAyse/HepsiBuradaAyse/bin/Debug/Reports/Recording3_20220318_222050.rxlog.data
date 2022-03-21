@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="7.76s"
+		durationms="7759"
+		type="root"
+		rid="3afdb3a6b0183a4"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 22:20:51"
+		timestampiso="2022-03-18T19:20:51"
+		endtime="18.03.2022 22:20:59"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording3">
+		<detail>
+			Recording3
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.414"
+			timeRelativeToTestModuleStartTime="00:04.414"
+			timeWallClock="22:20:56"
+			time="00:04.414"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating CompareImage (Screenshot: 'Screenshot1' with region {X=42,Y=34,Width=1791,Height=451}) on item 'UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//div[#'root']/div/div/div[1]/div[2]"
+				itempath="div[1]/div[2]"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3"
+				id="9cce2b8a2b2844a5a202806f5f8eb94f"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording3.cs"
+				codeline="82"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.651"
+			timeRelativeToTestModuleStartTime="00:07.651"
+			timeWallClock="22:20:59"
+			time="00:07.651"
+			level="Success"
+			category="Validation">
+			<message>
+				Screenshot of item 'HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3' does match the specified image.
+			</message>
+			<metainfo
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording3.cs"
+				codeline="83"
+				loglvl="Success"
+				id="9cce2b8a2b2844a5a202806f5f8eb94f"
+				path="/dom[@domain='giris.hepsiburada.com']//div[#'root']/div/div/div[1]/div[2]"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.DivTag2zMNDEK0DU0JIXaIzA2Jl1.DivTag1qzyrDtuo5Y1fZvzzhrn3"
+				itemindex="10">
+			</metainfo>
+		</item>
+	</activity>
+</report>

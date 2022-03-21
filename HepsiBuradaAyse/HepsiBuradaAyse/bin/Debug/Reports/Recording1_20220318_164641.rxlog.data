@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="13.48s"
+		durationms="13481"
+		type="root"
+		rid="55b36e22a11e01d"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:46:43"
+		timestampiso="2022-03-18T13:46:43"
+		endtime="18.03.2022 16:46:56"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.929"
+			timeRelativeToTestModuleStartTime="00:05.929"
+			timeWallClock="16:46:49"
+			time="00:05.929"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.964"
+			timeRelativeToTestModuleStartTime="00:05.964"
+			timeWallClock="16:46:49"
+			time="00:05.964"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ContinueStepBtn' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="25"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.259"
+			timeRelativeToTestModuleStartTime="00:07.259"
+			timeWallClock="16:46:50"
+			time="00:07.259"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='Akbank') on item 'Sepetim.PaymentDetails1v4iX1.Akbank'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='Akbank']"
+				itempath="div/div/div[2]/ul//span[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank"
+				id="f97718cb4fa64baa996a27a0bbceb998"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="26"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.481"
+			timeRelativeToTestModuleStartTime="00:13.481"
+			timeWallClock="16:46:56"
+			time="00:13.481"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

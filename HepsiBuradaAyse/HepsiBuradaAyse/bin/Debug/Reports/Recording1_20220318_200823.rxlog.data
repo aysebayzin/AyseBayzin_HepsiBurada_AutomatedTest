@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="InProgress">
+	<activity
+		result="Success"
+		duration="30.69s"
+		durationms="30688"
+		type="root"
+		rid="be6ae290f5cd64e"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 20:08:25"
+		timestampiso="2022-03-18T17:08:25"
+		endtime="18.03.2022 20:08:55"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.790"
+			timeRelativeToTestModuleStartTime="00:05.790"
+			timeWallClock="20:08:30"
+			time="00:05.790"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.796"
+			timeRelativeToTestModuleStartTime="00:05.796"
+			timeWallClock="20:08:30"
+			time="00:05.796"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ContinueStepBtn' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="25"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.070"
+			timeRelativeToTestModuleStartTime="00:08.070"
+			timeWallClock="20:08:33"
+			time="00:08.070"
+			level="Info"
+			category="Validation">
+			<message>
+				Validating AttributeEqual (InnerText='İş Bankası') on item 'Sepetim.PaymentDetails1v4iX1.İşBankası'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				itempath="div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.İşBankası"
+				id="5d70fcd5eb2646189bcda1fb101b95a2"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="26"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

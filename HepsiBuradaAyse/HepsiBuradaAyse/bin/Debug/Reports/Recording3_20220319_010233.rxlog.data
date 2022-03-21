@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="23s"
+		durationms="22996"
+		type="root"
+		rid="300f18be1ae83a0"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 01:02:35"
+		timestampiso="2022-03-18T22:02:35"
+		endtime="19.03.2022 01:02:58"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording3">
+		<detail>
+			Recording3
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.469"
+			timeRelativeToTestModuleStartTime="00:05.469"
+			timeWallClock="01:02:40"
+			time="00:05.469"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left DoubleClick item 'AdvancedImageBasedAutomationRanore.AddressAndSearchBar' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Advanced Image-Based Automation']/container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				itempath="container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				fullname="HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar"
+				id="1c1f4ef9a3904dcdbc21970e2979a78a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording3.cs"
+				codeline="82"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.998"
+			timeRelativeToTestModuleStartTime="00:22.998"
+			timeWallClock="01:02:58"
+			time="00:22.998"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

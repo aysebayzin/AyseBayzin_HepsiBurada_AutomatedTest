@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="22.15s"
+		durationms="22154"
+		type="root"
+		rid="8e532a072b849c0"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 00:58:03"
+		timestampiso="2022-03-18T21:58:03"
+		endtime="19.03.2022 00:58:25"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.324"
+			timeRelativeToTestModuleStartTime="00:03.324"
+			timeWallClock="00:58:06"
+			time="00:03.324"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.329"
+			timeRelativeToTestModuleStartTime="00:03.329"
+			timeWallClock="00:58:06"
+			time="00:03.329"
+			level="Info"
+			category="Validation">
+			<message>
+				hepsiburada.com adres doğrulaması<br/>Validating AttributeEqual (Text='hepsiburada.com') on item 'AdvancedImageBasedAutomationRanore.AddressAndSearchBar'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Advanced Image-Based Automation']/container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				itempath="container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				fullname="HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar"
+				id="1c1f4ef9a3904dcdbc21970e2979a78a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="109"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.157"
+			timeRelativeToTestModuleStartTime="00:22.157"
+			timeWallClock="00:58:25"
+			time="00:22.157"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

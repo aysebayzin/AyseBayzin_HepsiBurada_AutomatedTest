@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1.1m"
+		durationms="67909"
+		type="root"
+		rid="6f3c46820c8e4f0"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 00:58:37"
+		timestampiso="2022-03-18T21:58:37"
+		endtime="19.03.2022 00:59:45"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar' does not match the specified value (Failed to find item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar'. Please check that your whitelist allows Ranorex to access the process. No element found for path '/form[@title&gt;'Advanced Image-Based Automation']/container[@accessiblename&gt;'T&#252;rkiye''nin En B&#252;y&#252;k Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']' at step 'form[@title&gt;'Advanced Image-Based Automation']' after 398 attempts within 1m.).
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.590"
+			timeRelativeToTestModuleStartTime="00:07.590"
+			timeWallClock="00:58:45"
+			time="00:07.590"
+			level="Warn"
+			category="Data"
+			errimg="images_Recordin_bb4dcdad\Recordin_bb4dcdad_e1a2ffd5_trace.jpg"
+			errthumb="images_Recordin_bb4dcdad\Recordin_bb4dcdad_e1a2ffd5_trace_thumb.jpg">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.597"
+			timeRelativeToTestModuleStartTime="00:07.597"
+			timeWallClock="00:58:45"
+			time="00:07.597"
+			level="Info"
+			category="Validation"
+			errimg="images_Recordin_bb4dcdad\Recordin_bb4dcdad_e1a2ffd5_trace.jpg"
+			errthumb="images_Recordin_bb4dcdad\Recordin_bb4dcdad_e1a2ffd5_trace_thumb.jpg">
+			<message>
+				hepsiburada.com adres doğrulaması<br/>Validating AttributeEqual (Text='hepsiburada.com') on item 'AdvancedImageBasedAutomationRanore.AddressAndSearchBar'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Advanced Image-Based Automation']/container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				itempath="container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				fullname="HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar"
+				id="1c1f4ef9a3904dcdbc21970e2979a78a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="109"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:07.785"
+			timeRelativeToTestModuleStartTime="01:07.785"
+			timeWallClock="00:59:45"
+			time="01:07.785"
+			level="Failure"
+			category="Validation"
+			errimg="images_Recordin_bb4dcdad\Recordin_bb4dcdad_b064fd2f_trace.jpg"
+			errthumb="images_Recordin_bb4dcdad\Recordin_bb4dcdad_b064fd2f_trace_thumb.jpg">
+			<message>
+				Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar' does not match the specified value (Failed to find item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar'. Please check that your whitelist allows Ranorex to access the process. No element found for path '/form[@title&gt;'Advanced Image-Based Automation']/container[@accessiblename&gt;'T&#252;rkiye''nin En B&#252;y&#252;k Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']' at step 'form[@title&gt;'Advanced Image-Based Automation']' after 398 attempts within 1m.).
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Advanced Image-Based Automation']/container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				itempath="container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				fullname="HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar"
+				id="1c1f4ef9a3904dcdbc21970e2979a78a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="110"
+				failedStep="form[@title>'Advanced Image-Based Automation']"
+				bestPathPrefix=""
+				loglvl="Failure"
+				itemindex="12">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:07.787"
+			timeRelativeToTestModuleStartTime="01:07.787"
+			timeWallClock="00:59:45"
+			time="01:07.787"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_bb4dcdad\Recordin_bb4dcdad_b064fd2f_trace.jpg"
+			errthumb="images_Recordin_bb4dcdad\Recordin_bb4dcdad_b064fd2f_trace_thumb.jpg">
+			<message>
+				Module execution was aborted because a validation step has failed. Attribute 'Text' of element for item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar' does not match the specified value (Failed to find item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar'. Please check that your whitelist allows Ranorex to access the process. No element found for path '/form[@title&gt;'Advanced Image-Based Automation']/container[@accessiblename&gt;'T&#252;rkiye''nin En B&#252;y&#252;k Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']' at step 'form[@title&gt;'Advanced Image-Based Automation']' after 398 attempts within 1m.).<br/>Failed to find item 'HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar'. Please check that your whitelist allows Ranorex to access the process.<br/>No element found for path '/form[@title&gt;'Advanced Image-Based Automation']/container[@accessiblename&gt;'T&#252;rkiye''nin En B&#252;y&#252;k Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']' at step 'form[@title&gt;'Advanced Image-Based Automation']' after 398 attempts within 1m.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Validate.ThrowValidationException(RepoItemInfo itemInfo, ValidationException ex)
+   at Ranorex.Validate.IsTrueInternal(Boolean condition, String message, Options options, RepoItemInfo itemInfo, RanorexException innerException)
+   at Ranorex.Validate.AttributeEqualInternal(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   at Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   at Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value)
+   at HepsiBuradaAyse.Recording1.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs:line 110
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="110"
+				type="repoitem"
+				path="/form[@title>'Advanced Image-Based Automation']/container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				itempath="container[@accessiblename>'Türkiye''nin En Büyük Online']/container[@accessiblename='Google Chrome']/container/container[2]/container[1]/toolbar[1]/?/?/text[@accessiblename='Address and search bar']"
+				fullname="HepsiBuradaAyseRepository.AdvancedImageBasedAutomationRanore.AddressAndSearchBar"
+				id="1c1f4ef9a3904dcdbc21970e2979a78a"
+				timeout="60000"
+				loglvl="Error"
+				itemindex="12">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="8.9s"
+		durationms="8896"
+		type="root"
+		rid="1cde271cc3e9cef0"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:52:55"
+		timestampiso="2022-03-18T12:52:55"
+		endtime="18.03.2022 15:53:04"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.033"
+			timeRelativeToTestModuleStartTime="00:05.033"
+			timeWallClock="15:53:00"
+			time="00:05.033"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.057"
+			timeRelativeToTestModuleStartTime="00:05.057"
+			timeWallClock="15:53:00"
+			time="00:05.057"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 300ms.
+			</message>
+			<metainfo
+				itemindex="9"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.370"
+			timeRelativeToTestModuleStartTime="00:05.370"
+			timeWallClock="15:53:00"
+			time="00:05.370"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SearchBoxOld.Text' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="111"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.017"
+			timeRelativeToTestModuleStartTime="00:07.017"
+			timeWallClock="15:53:02"
+			time="00:07.017"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Doğan Cüceloğlu' with focus on 'ApplicationUnderTest.SearchBoxOld.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="115"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.968"
+			timeRelativeToTestModuleStartTime="00:07.968"
+			timeWallClock="15:53:03"
+			time="00:07.968"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Return}' with focus on 'TuerkiyeninEnBueyuekOnlineAlışveriş'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/form[@title>'Türkiye''nin En Büyük Online']"
+				itempath="/form[@title>'Türkiye''nin En Büyük Online']"
+				fullname="HepsiBuradaAyseRepository.TuerkiyeninEnBueyuekOnlineAlışveriş.Self"
+				id="c934ba79f31142d8b759c2c5c5df7910"
+				timeout="30000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="120"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.275"
+			timeRelativeToTestModuleStartTime="00:08.275"
+			timeWallClock="15:53:03"
+			time="00:08.275"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 300ms.
+			</message>
+			<metainfo
+				itemindex="13"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.584"
+			timeRelativeToTestModuleStartTime="00:08.584"
+			timeWallClock="15:53:03"
+			time="00:08.584"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -240 units.
+			</message>
+			<metainfo
+				itemindex="14"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="128"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

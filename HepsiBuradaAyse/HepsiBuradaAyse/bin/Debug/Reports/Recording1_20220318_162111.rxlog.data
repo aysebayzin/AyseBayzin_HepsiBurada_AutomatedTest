@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="4.87s"
+		durationms="4868"
+		type="root"
+		rid="265b218f2e522c00"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 16:21:12"
+		timestampiso="2022-03-18T13:21:12"
+		endtime="18.03.2022 16:21:17"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.468"
+			timeRelativeToTestModuleStartTime="00:03.468"
+			timeWallClock="16:21:15"
+			time="00:03.468"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.488"
+			timeRelativeToTestModuleStartTime="00:03.488"
+			timeWallClock="16:21:15"
+			time="00:03.488"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.SardesPaymentPageAccordionNonGroupSa.SardesPaymentPageAccordionAccordionHe' at 577;17.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]"
+				itempath="div[1]/div[1]"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.SardesPaymentPageAccordionAccordionHe"
+				id="ac8d166a1e3e468e99d6733d567fc663"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="24"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

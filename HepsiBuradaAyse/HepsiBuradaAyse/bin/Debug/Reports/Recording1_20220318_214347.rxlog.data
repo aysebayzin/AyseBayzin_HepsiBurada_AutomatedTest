@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="16.72s"
+		durationms="16722"
+		type="root"
+		rid="16f6e23fb480c64"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 21:43:49"
+		timestampiso="2022-03-18T18:43:49"
+		endtime="18.03.2022 21:44:06"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Attribute 'InnerText' of element for item 'HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank' does not match the specified value (actual='Akbank', expected='Akhgfbank').
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.781"
+			timeRelativeToTestModuleStartTime="00:03.781"
+			timeWallClock="21:43:53"
+			time="00:03.781"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.789"
+			timeRelativeToTestModuleStartTime="00:03.789"
+			timeWallClock="21:43:53"
+			time="00:03.789"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ATagDuezenle' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/?/?/h2[@innertext='Ödeme bilgileri']/a[@innertext='(Düzenle)']"
+				itempath=".//div[#'app']/div/div/div[1]/div/div[1]/section[3]/?/?/h2[@innertext='Ödeme bilgileri']/a[@innertext='(Düzenle)']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ATagDuezenle"
+				id="0d89142ae68e43d18f00334275ea08aa"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				itemindex="28"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.160"
+			timeRelativeToTestModuleStartTime="00:05.160"
+			timeWallClock="21:43:54"
+			time="00:05.160"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for time from variable $N5s.
+			</message>
+			<metainfo
+				itemindex="29"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.166"
+			timeRelativeToTestModuleStartTime="00:10.166"
+			timeWallClock="21:43:59"
+			time="00:10.166"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.AnındaHavale' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				itempath=".//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.AnındaHavale"
+				id="2bbd7a59d0134a64b9d86e2dd104e02a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="115"
+				itemindex="30"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.911"
+			timeRelativeToTestModuleStartTime="00:10.911"
+			timeWallClock="21:44:00"
+			time="00:10.911"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[1]/div[1]//p[@innertext='Akbank']"
+				itempath="div[1]/div[1]//p[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.Akbank"
+				id="c623cbcd99e841b9a36f0ebf020ea809"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="119"
+				itemindex="31"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.875"
+			timeRelativeToTestModuleStartTime="00:11.875"
+			timeWallClock="21:44:01"
+			time="00:11.875"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'Sepetim.ContinueStepBtn' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="123"
+				itemindex="32"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.541"
+			timeRelativeToTestModuleStartTime="00:12.541"
+			timeWallClock="21:44:01"
+			time="00:12.541"
+			level="Info"
+			category="Validation"
+			errimg="images_Recordin_759b13ca\Recordin_759b13ca_20cad9bc_trace.jpg"
+			errthumb="images_Recordin_759b13ca\Recordin_759b13ca_20cad9bc_trace_thumb.jpg">
+			<message>
+				Validating AttributeEqual (InnerText='Akhgfbank') on item 'Sepetim.PaymentDetails1v4iX1.Akbank'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='Akbank']"
+				itempath="div/div/div[2]/ul//span[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank"
+				id="f97718cb4fa64baa996a27a0bbceb998"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="127"
+				itemindex="33"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.564"
+			timeRelativeToTestModuleStartTime="00:16.564"
+			timeWallClock="21:44:05"
+			time="00:16.564"
+			level="Failure"
+			category="Validation"
+			errimg="images_Recordin_759b13ca\Recordin_759b13ca_80b703ac_trace.jpg"
+			errthumb="images_Recordin_759b13ca\Recordin_759b13ca_80b703ac_trace_thumb.jpg">
+			<message>
+				Attribute 'InnerText' of element for item 'HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank' does not match the specified value (actual='Akbank', expected='Akhgfbank').
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='Akbank']"
+				itempath="div/div/div[2]/ul//span[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank"
+				id="f97718cb4fa64baa996a27a0bbceb998"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="128"
+				loglvl="Failure"
+				itemindex="33">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.573"
+			timeRelativeToTestModuleStartTime="00:16.573"
+			timeWallClock="21:44:05"
+			time="00:16.573"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_759b13ca\Recordin_759b13ca_80b703ac_trace.jpg"
+			errthumb="images_Recordin_759b13ca\Recordin_759b13ca_80b703ac_trace_thumb.jpg">
+			<message>
+				Module execution was aborted because a validation step has failed. Attribute 'InnerText' of element for item 'HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank' does not match the specified value (actual='Akbank', expected='Akhgfbank').
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Validate.Execute(AttributeValidation attributeValidation, Func`1 action, Options options, RepoItemInfo itemInfo)
+   at Ranorex.Validate.Execute(IElement element, IMatch match, String message, Options options, RepoItemInfo itemInfo, Func`3 comparisonFunc, String reasonPattern)
+   at Ranorex.Validate.AttributeEqualInternal(IElement element, String name, Object value, String message, Options options, RepoItemInfo itemInfo)
+   at Ranorex.Validate.AttributeEqualInternal(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   at Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value, String message, Options options)
+   at Ranorex.Validate.AttributeEqual(RepoItemInfo itemInfo, String name, Object value)
+   at HepsiBuradaAyse.Recording1.Ranorex.Core.Testing.ITestModule.Run() in c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs:line 128
+   at Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="128"
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='Akbank']"
+				itempath="div/div/div[2]/ul//span[@innertext='Akbank']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.Akbank"
+				id="f97718cb4fa64baa996a27a0bbceb998"
+				timeout="90000"
+				loglvl="Error"
+				itemindex="33">
+			</metainfo>
+		</item>
+	</activity>
+</report>

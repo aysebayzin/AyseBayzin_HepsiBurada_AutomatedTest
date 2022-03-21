@@ -1,0 +1,183 @@
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.rxtmg
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.rxtst
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.exe.config
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.exe
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.pdb
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Bootstrapper.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Cef.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.ChromeWeb.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Delphi.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.FirefoxWeb.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Flex.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Java.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Mobile.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Msaa.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Office.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Qt.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.RawText.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Sap.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Uia.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Web.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WebDriver.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Win32.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Util.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Contracts.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.Jira.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Common.Net35.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Service.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Controls.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.Services.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Common.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Controls.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Base.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.WinApi.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.WinApi.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Licensing.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Injection.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Domain.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.PDFReport.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.CefHost.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WpfProxy.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\DelphiInstrumentation.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Mvvm.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Instrumentation.Qt.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Instrumentation.RawText.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Controls.Wpf.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.WinForms.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinFormsProxy.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Contracts.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Contracts.netstandard2.0.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Ipc.net462.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Contracts.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\ICSharpCode.Core.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\PdfSharp.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ionic.Zip.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\PdfSharp.Charting.dll
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Cef.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.ChromeWeb.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Delphi.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.FirefoxWeb.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Flex.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Java.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Mobile.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Msaa.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Office.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Qt.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.RawText.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Sap.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Uia.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Web.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WebDriver.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Win32.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Core.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Core.xml
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.csprojResolveAssemblyReference.cache
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.exe
+C:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.pdb
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.rxtmg
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.rxtst
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.exe.config
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.exe
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\HepsiBuradaAyse.pdb
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Bootstrapper.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Cef.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.ChromeWeb.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Delphi.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.FirefoxWeb.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Flex.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Java.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Mobile.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Msaa.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Office.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Qt.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.RawText.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Sap.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Uia.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Web.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WebDriver.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Win32.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Util.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Contracts.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.Jira.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Common.Net35.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Service.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.TestRail.Controls.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Integrations.Services.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Common.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Controls.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Base.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.WinApi.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.WinApi.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Licensing.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Injection.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.Domain.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.PDFReport.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.CefHost.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WpfProxy.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\DelphiInstrumentation.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Mvvm.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Instrumentation.Qt.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Instrumentation.RawText.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Controls.Wpf.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Libs.WinForms.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinFormsProxy.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Contracts.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Contracts.netstandard2.0.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.Ipc.net462.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Contracts.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\ICSharpCode.Core.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\PdfSharp.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\MigraDoc.DocumentObjectModel.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ionic.Zip.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\MigraDoc.Rendering.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\PdfSharp.Charting.dll
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Core.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Cef.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.ChromeWeb.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Delphi.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.FirefoxWeb.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Flex.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Java.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Mobile.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Msaa.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Office.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Qt.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.RawText.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Sap.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Uia.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Web.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WebDriver.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Win32.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.WinForms.Core.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\Ranorex.Plugin.Wpf.Core.xml
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.csprojResolveAssemblyReference.cache
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.exe
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\obj\x86\Debug\HepsiBuradaAyse.pdb
+C:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\bin\Debug\RepositoryImages\HepsiBuradaAyseRepository5b19f910.rximgres

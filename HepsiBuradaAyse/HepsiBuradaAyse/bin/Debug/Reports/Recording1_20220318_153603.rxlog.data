@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="27.46s"
+		durationms="27458"
+		type="root"
+		rid="ea69fbb6ad0c1c8"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:36:04"
+		timestampiso="2022-03-18T12:36:04"
+		endtime="18.03.2022 15:36:31"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<errormessage>
+			Item 'HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.SearchBoxOldHasNoBorderBottomSearchBox' is no DivTag.
+		</errormessage>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.060"
+			timeRelativeToTestModuleStartTime="00:12.060"
+			timeWallClock="15:36:16"
+			time="00:12.060"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.077"
+			timeRelativeToTestModuleStartTime="00:12.077"
+			timeWallClock="15:36:16"
+			time="00:12.077"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'https://www.hepsiburada.com/' with browser 'Chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.177"
+			timeRelativeToTestModuleStartTime="00:12.177"
+			timeWallClock="15:36:16"
+			time="00:12.177"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.GirişYap' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				itempath=".//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.GirişYap"
+				id="831b296265a245e7966162134fb0721a"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.209"
+			timeRelativeToTestModuleStartTime="00:16.209"
+			timeWallClock="15:36:20"
+			time="00:16.209"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SomeLiTag' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']//ul/li[1]"
+				itempath=".//div[#'myAccount']//ul/li[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SomeLiTag"
+				id="d06932a94df24b16885ed9741a8b25a7"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="116"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:16.889"
+			timeRelativeToTestModuleStartTime="00:16.889"
+			timeWallClock="15:36:21"
+			time="00:16.889"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//input[#'txtUserName']"
+				itempath=".//input[#'txtUserName']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName"
+				id="c6ed0702ef6e4bd0a756ae5c6f2c446b"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="120"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:19.291"
+			timeRelativeToTestModuleStartTime="00:19.291"
+			timeWallClock="15:36:23"
+			time="00:19.291"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'ayse.bayzin@hotmail.com' with focus on 'UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//input[#'txtUserName']"
+				itempath=".//input[#'txtUserName']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName"
+				id="c6ed0702ef6e4bd0a756ae5c6f2c446b"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="124"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.278"
+			timeRelativeToTestModuleStartTime="00:20.278"
+			timeWallClock="15:36:24"
+			time="00:20.278"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'UEyeGirişSayfasıUEyeOlHepsiburad.BtnLogin' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//button[#'btnLogin']"
+				itempath=".//button[#'btnLogin']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.BtnLogin"
+				id="563dfa688c8a472d962eec9fcd763721"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="129"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:20.859"
+			timeRelativeToTestModuleStartTime="00:20.859"
+			timeWallClock="15:36:25"
+			time="00:20.859"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'UEyeGirişSayfasıUEyeOlHepsiburad.TxtPassword' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//form[#'frmNewLogin']//input[@id='txtPassword']"
+				itempath=".//form[#'frmNewLogin']//input[@id='txtPassword']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.TxtPassword"
+				id="2b817061796f4e2a818ae659633211df"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="133"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.725"
+			timeRelativeToTestModuleStartTime="00:21.725"
+			timeWallClock="15:36:26"
+			time="00:21.725"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'aa25.aa27' with focus on 'UEyeGirişSayfasıUEyeOlHepsiburad.TxtPassword'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//form[#'frmNewLogin']//input[@id='txtPassword']"
+				itempath=".//form[#'frmNewLogin']//input[@id='txtPassword']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.TxtPassword"
+				id="2b817061796f4e2a818ae659633211df"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="137"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.274"
+			timeRelativeToTestModuleStartTime="00:22.274"
+			timeWallClock="15:36:26"
+			time="00:22.274"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_30449f10\Recordin_30449f10_3ad9001f_trace.jpg"
+			errthumb="images_Recordin_30449f10\Recordin_30449f10_3ad9001f_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'UEyeGirişSayfasıUEyeOlHepsiburad.BtnEmailSelect' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//button[#'btnEmailSelect']"
+				itempath=".//button[#'btnEmailSelect']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.BtnEmailSelect"
+				id="becf1af68e1d471280cc13b51354a6d6"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="142"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:22.876"
+			timeRelativeToTestModuleStartTime="00:22.876"
+			timeWallClock="15:36:27"
+			time="00:22.876"
+			level="Info"
+			category="Mouse"
+			errimg="images_Recordin_30449f10\Recordin_30449f10_65b20320_trace.jpg"
+			errthumb="images_Recordin_30449f10\Recordin_30449f10_65b20320_trace_thumb.jpg">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SearchBoxOld.SearchBoxOldHasNoBorderBottomSearchBox' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]"
+				itempath="div/div/div[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.SearchBoxOldHasNoBorderBottomSearchBox"
+				id="2761eb80af3e4c68bc14b7255e456a51"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="146"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:27.346"
+			timeRelativeToTestModuleStartTime="00:27.346"
+			timeWallClock="15:36:31"
+			time="00:27.346"
+			level="Error"
+			category="Module"
+			errimg="images_Recordin_30449f10\Recordin_30449f10_f640c6ab_trace.jpg"
+			errthumb="images_Recordin_30449f10\Recordin_30449f10_f640c6ab_trace_thumb.jpg">
+			<message>
+				Item 'HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.SearchBoxOldHasNoBorderBottomSearchBox' is no DivTag.<br/>The element does not support the required capability 'divtag'.
+			</message>
+			<metainfo
+				stacktrace="   konum: Ranorex.Core.Repository.RepoItemInfo.FindInternal[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   konum: Ranorex.Core.Repository.RepoItemInfo.&lt;>c__DisplayClass81_0`1.&lt;Find>b__0()&#13;&#10;   konum: Ranorex.Core.Testing.Services.NoMaintenanceModeService.HandleElementNotFound[T](Func`1 action, RepoItemInfo entry)&#13;&#10;   konum: Ranorex.Core.Repository.RepoItemInfo.Find[T](Boolean findSingle, Boolean throwException, Duration effectiveTimeoutOverride)&#13;&#10;   konum: Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException, Duration waitTimeout)&#13;&#10;   konum: Ranorex.Core.Repository.RepoItemInfo.CreateAdapter[T](Boolean throwException)&#13;&#10;   konum: HepsiBuradaAyse.HepsiBuradaAyseRepositoryFolders.SearchBoxOldFolder.get_SearchBoxOldHasNoBorderBottomSearchBox() c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\HepsiBuradaAyseRepository.cs içinde: satır 533&#13;&#10;   konum: HepsiBuradaAyse.Recording1.Ranorex.Core.Testing.ITestModule.Run() c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs içinde: satır 147&#13;&#10;   konum: Ranorex.Core.Testing.TestModuleLeaf.RunInternal(DataContext parentDataContext, Int32 iteration, Int32 iterationCount, Boolean skipIteration)"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs içinde"
+				codeline="147"
+				loglvl="Error"
+				id="2761eb80af3e4c68bc14b7255e456a51"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.SearchBoxOldHasNoBorderBottomSearchBox"
+				itemindex="9">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="10.69s"
+		durationms="10689"
+		type="root"
+		rid="c1105c7fb134431"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="fatma.bayzin"
+		rxversion="10.1.6.0"
+		host="FATMABAYZIN"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-GB"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="19.03.2022 11:39:50"
+		timestampiso="2022-03-19T08:39:50"
+		endtime="19.03.2022 11:40:01"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.693"
+			timeRelativeToTestModuleStartTime="00:04.693"
+			timeWallClock="11:39:55"
+			time="00:04.693"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>N5s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.699"
+			timeRelativeToTestModuleStartTime="00:04.699"
+			timeWallClock="11:39:55"
+			time="00:04.699"
+			level="Info"
+			category="Mouse">
+			<message>
+				Anında havale seçimi<br/>Mouse Left Click item 'Sepetim.AnındaHavale' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				itempath=".//div[#'payment-methods']/div/div[2]/div[1]//h3[@innertext='Anında Havale']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.AnındaHavale"
+				id="2bbd7a59d0134a64b9d86e2dd104e02a"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="96"
+				itemindex="34"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.346"
+			timeRelativeToTestModuleStartTime="00:07.346"
+			timeWallClock="11:39:58"
+			time="00:07.346"
+			level="Info"
+			category="Mouse">
+			<message>
+				Banka seçimi - İş Bankası<br/>Mouse Left Click item 'Sepetim.SardesPaymentPageAccordionNonGroupSa.İşBankası' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'payment-money-transfer']/div/div[2]/div[1]//p[@innertext='İş Bankası']"
+				itempath="div[2]/div[1]//p[@innertext='İş Bankası']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.SardesPaymentPageAccordionNonGroupSa.İşBankası"
+				id="82150dc557d74904ac6b66cbc702c141"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="101"
+				itemindex="35"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.242"
+			timeRelativeToTestModuleStartTime="00:08.242"
+			timeWallClock="11:39:59"
+			time="00:08.242"
+			level="Info"
+			category="Mouse">
+			<message>
+				Alışverişi tamamla buton seçimi<br/>Mouse Left Click item 'Sepetim.ContinueStepBtn' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//button[#'continue_step_btn']"
+				itempath=".//button[#'continue_step_btn']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.ContinueStepBtn"
+				id="a8c16122e3224a01a1f1a50e88afd3f0"
+				timeout="60000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="106"
+				itemindex="36"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.957"
+			timeRelativeToTestModuleStartTime="00:08.957"
+			timeWallClock="11:39:59"
+			time="00:08.957"
+			level="Info"
+			category="Validation">
+			<message>
+				Banka seçimi kotrolu - İş Bankası<br/>Validating AttributeEqual (InnerText='İş Bankası') on item 'Sepetim.PaymentDetails1v4iX1.İşBankası'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				itempath="div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.İşBankası"
+				id="5d70fcd5eb2646189bcda1fb101b95a2"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="111"
+				itemindex="37"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.889"
+			timeRelativeToTestModuleStartTime="00:09.889"
+			timeWallClock="11:40:00"
+			time="00:09.889"
+			level="Success"
+			category="Validation">
+			<message>
+				Attribute 'InnerText' of element for item 'HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.İşBankası' does match the specified value.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				itempath="div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.İşBankası"
+				id="5d70fcd5eb2646189bcda1fb101b95a2"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				loglvl="Success"
+				itemindex="37">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.995"
+			timeRelativeToTestModuleStartTime="00:09.995"
+			timeWallClock="11:40:00"
+			time="00:09.995"
+			level="Info"
+			category="Mouse">
+			<message>
+				Alışverişi tamamla buton seçimi<br/>Mouse Left Click item 'Sepetim.PaymentDetails1v4iX1.İşBankası' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='checkout.hepsiburada.com']//div[#'app']/div/div/div[1]/div/div[1]/section[3]/div/div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				itempath="div/div/div[2]/ul//span[@innertext='İş Bankası']"
+				fullname="HepsiBuradaAyseRepository.Sepetim.PaymentDetails1v4iX1.İşBankası"
+				id="5d70fcd5eb2646189bcda1fb101b95a2"
+				timeout="90000"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="116"
+				itemindex="38"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:10.690"
+			timeRelativeToTestModuleStartTime="00:10.690"
+			timeWallClock="11:40:01"
+			time="00:10.690"
+			level="Success"
+			category="User">
+			<message>
+				Selected bank and displayed on paypage are match.
+			</message>
+			<metainfo
+				itemindex="39"
+				codefile="c:\Users\fatma.bayzin\Desktop\HepsiBurada_Ayşe\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="121"
+				loglvl="Success">
+			</metainfo>
+		</item>
+	</activity>
+</report>

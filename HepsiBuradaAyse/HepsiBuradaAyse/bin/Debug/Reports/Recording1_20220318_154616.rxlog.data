@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="21.58s"
+		durationms="21584"
+		type="root"
+		rid="160bdf1d8e7c3952"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:46:17"
+		timestampiso="2022-03-18T12:46:17"
+		endtime="18.03.2022 15:46:39"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.193"
+			timeRelativeToTestModuleStartTime="00:04.193"
+			timeWallClock="15:46:21"
+			time="00:04.193"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.216"
+			timeRelativeToTestModuleStartTime="00:04.216"
+			timeWallClock="15:46:21"
+			time="00:04.216"
+			level="Info"
+			category="Website">
+			<message>
+				Opening web site 'https://www.hepsiburada.com/' with browser 'Chrome' in maximized mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.299"
+			timeRelativeToTestModuleStartTime="00:04.299"
+			timeWallClock="15:46:21"
+			time="00:04.299"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.GirişYap' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				itempath=".//div[#'myAccount']/?/?/span[@title='Giriş Yap']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.GirişYap"
+				id="831b296265a245e7966162134fb0721a"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="112"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.975"
+			timeRelativeToTestModuleStartTime="00:08.975"
+			timeWallClock="15:46:26"
+			time="00:08.975"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SomeLiTag' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'myAccount']//ul/li[1]"
+				itempath=".//div[#'myAccount']//ul/li[1]"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SomeLiTag"
+				id="d06932a94df24b16885ed9741a8b25a7"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="116"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:09.788"
+			timeRelativeToTestModuleStartTime="00:09.788"
+			timeWallClock="15:46:27"
+			time="00:09.788"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='giris.hepsiburada.com']//input[#'txtUserName']"
+				itempath=".//input[#'txtUserName']"
+				fullname="HepsiBuradaAyseRepository.UEyeGirişSayfasıUEyeOlHepsiburad.TxtUserName"
+				id="c6ed0702ef6e4bd0a756ae5c6f2c446b"
+				timeout="60000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="120"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:21.585"
+			timeRelativeToTestModuleStartTime="00:21.585"
+			timeWallClock="15:46:38"
+			time="00:21.585"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="7.85s"
+		durationms="7854"
+		type="root"
+		rid="14c95eeb3c8d4046"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ipek_"
+		rxversion="10.1.7.0"
+		host="LAPTOP-UI7V6QIQ"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="tr-TR"
+		dtnlanguage="tr-TR"
+		screenresolution="1920x1080"
+		timestamp="18.03.2022 15:53:23"
+		timestampiso="2022-03-18T12:53:23"
+		endtime="18.03.2022 15:53:31"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.210"
+			timeRelativeToTestModuleStartTime="00:04.210"
+			timeWallClock="15:53:27"
+			time="00:04.210"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>NewVariable, N3s
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.247"
+			timeRelativeToTestModuleStartTime="00:04.247"
+			timeWallClock="15:53:27"
+			time="00:04.247"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 300ms.
+			</message>
+			<metainfo
+				itemindex="9"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="108"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.558"
+			timeRelativeToTestModuleStartTime="00:04.558"
+			timeWallClock="15:53:28"
+			time="00:04.558"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.SearchBoxOld.Text' at Center.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="111"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.015"
+			timeRelativeToTestModuleStartTime="00:06.015"
+			timeWallClock="15:53:29"
+			time="00:06.015"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'Doğan Cüceloğlu' with focus on 'ApplicationUnderTest.SearchBoxOld.Text'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']//div[#'SearchBoxOld']/div/div/div[1]/?/?/input[@type='text']"
+				itempath="div/div/div[1]/?/?/input[@type='text']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.SearchBoxOld.Text"
+				id="790b925c9d3a464bb7d1080b2156b12d"
+				timeout="90000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="115"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.932"
+			timeRelativeToTestModuleStartTime="00:06.932"
+			timeWallClock="15:53:30"
+			time="00:06.932"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence '{Return}' with focus on 'ApplicationUnderTest'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.hepsiburada.com']"
+				itempath="/dom[@domain='www.hepsiburada.com']"
+				fullname="HepsiBuradaAyseRepository.ApplicationUnderTest.Self"
+				id="e02ff13269eb4e9f81212bfe736e6a25"
+				timeout="30000"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="120"
+				itemindex="12"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.233"
+			timeRelativeToTestModuleStartTime="00:07.233"
+			timeWallClock="15:53:30"
+			time="00:07.233"
+			level="Info"
+			category="Delay">
+			<message>
+				Waiting for 300ms.
+			</message>
+			<metainfo
+				itemindex="13"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="125"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.540"
+			timeRelativeToTestModuleStartTime="00:07.540"
+			timeWallClock="15:53:31"
+			time="00:07.540"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse scroll Vertical by -240 units.
+			</message>
+			<metainfo
+				itemindex="14"
+				codefile="c:\Users\ipek_\Documents\Ranorex\RanorexStudio Projects\HepsiBuradaAyse\HepsiBuradaAyse\Recording1.cs"
+				codeline="128"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>

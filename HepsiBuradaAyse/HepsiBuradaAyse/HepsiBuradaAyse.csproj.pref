@@ -1,0 +1,16 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recording1.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="Recording1.cs" />
+    <Element value="Recording1.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections">
+      <Element value="HepsiBuradaAyse.Recording1.compare()" />
+      <Element value="HepsiBuradaAyse.Recording1.compare()" />
+    </Array>
+  </Properties>
+</Properties>

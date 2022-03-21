@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="0711cc2a-7899-4d96-80de-55f9aad77d1d"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="CloseBrowser"
+	namespace="HepsiBuradaAyse">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<closeapprecorditem
+		enabled="True"
+		graceperiod="0ms"
+		method="CloseWindow"
+		optional="False"
+		searchpropertyid="1f005e76-3c11-48a2-b248-e46fcbd288df">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="e02ff132-69eb-4e9f-8121-2bfe736e6a25"
+			sourcename="RepositoryEditor">
+				<path>
+					/form[@processname='chrome']
+				</path>
+				<robustPath>
+				</robustPath>
+			</info>
+		</closeapprecorditem>
+	</recorditems>
+	<repository
+	id="1910cfce-955a-4b07-a366-3773088f9c85"
+	name="HepsiBuradaAyseRepository"
+	relativepath="HepsiBuradaAyseRepository.rxrep">
+		<codegen
+		classname="HepsiBuradaAyseRepository"
+		namespace="HepsiBuradaAyse">
+		</codegen>
+		<rootfolder
+		id="5b19f910-a3ba-44fd-bfe1-4b90d93cb448"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		CloseBrowser.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

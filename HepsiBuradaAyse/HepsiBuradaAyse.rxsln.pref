@@ -1,0 +1,17 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{9B5EC3C2-AA7F-4C29-BE58-804DCF6E8AE0}</string>
+      <string>6e12a760-6636-488c-b3e9-7d256aa61ae5</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>cdb4a54a-54a3-4500-aedc-929e112d0703</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution HepsiBuradaAyse[HepsiBuradaAyse[Recording1.rxrec[]]]]&#xD;&#xA;Solution HepsiBuradaAyse\HepsiBuradaAyse\Recording1.rxrec&#xD;&#xA;Solution HepsiBuradaAyse" />
+  <StartupProject value="{9B5EC3C2-AA7F-4C29-BE58-804DCF6E8AE0}" />
+</Properties>
